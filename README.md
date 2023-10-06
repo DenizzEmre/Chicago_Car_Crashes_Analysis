@@ -1,2 +1,6 @@
 # Chicago_Car_Crashes_Analysis
 ![Chicago](read_me_pic.jpg)
+
+# Overview
+
+The project investigates car crash patterns in Chicago for an autonomous vehicles firm and the Vehicle Safety Board of Chicago. Leveraging data from the city's official source, Chicago Data Portal, the project aims to shed light on critical aspects of road safety. The mission is to analyze the data and harness its insights to enhance safety measures and reduce accidents.
