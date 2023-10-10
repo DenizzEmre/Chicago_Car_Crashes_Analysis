@@ -12,3 +12,7 @@ The project investigates car crash patterns in Chicago for an autonomous vehicle
 >- Key Goal: Utilize data insights to ensure the success and safety of autonomous transportation services.
 
 >- Specific Focus: Understanding crash patterns in Chicago.
+
+# Data Understanding and Observations 
+
+There are three separate data: crashes, people, and vehicles. The data can be found here: <a href="https://www.google.com/" target="_blank">Google</a> 
