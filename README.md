@@ -15,4 +15,4 @@ The project investigates car crash patterns in Chicago for an autonomous vehicle
 
 # Data Understanding and Observations 
 
-There are three separate data: crashes, people, and vehicles. The data can be found here: <a href="https://www.google.com/" target="_blank">Google</a> 
+There are three separate data: crashes, people, and vehicles. The data can be found here: <a href="[https://www.google.com/](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if)https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if" target="_blank">Google</a> 
