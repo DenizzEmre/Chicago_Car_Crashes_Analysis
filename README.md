@@ -37,18 +37,17 @@ The findings underscore the necessity of understanding both the physical infrast
 
 Note that correlation is not causation! The logistic regression report and coefficients show correlation between features and the likelihood of a street being high-frequency in terms of accidents. However, they don't prove causation. 
 
-- Limitations:
+Limitations:
 
- -> The dataset does not encompass all potential variables, particularly those related to driver behavior and distractions like cell phone use, which has become a common cause of accidents in recent times.
+>- The dataset does not encompass all potential variables, particularly those related to driver behavior and distractions like cell phone use, which has become a common cause of accidents in recent times.
   
-  ->Dependence on Available Features: The regression analysis, although revealing, relies heavily on the given features in the dataset. It may not encapsulate all factors contributing to high-frequency accidents.
+ >- Dependence on Available Features: The regression analysis, although revealing, relies heavily on the given features in the dataset. It may not encapsulate all factors contributing to high-frequency accidents.
   
-  
-- Next Steps:
+ Next Steps:
 
- -> Expand Data Collection: Given the importance of factors like driver behavior and distractions, efforts should be made to include these in future datasets. 
+>- Expand Data Collection: Given the importance of factors like driver behavior and distractions, efforts should be made to include these in future datasets. 
 
- ->  Having a a binning system, distinguishing between human-related and external factors influencing accident frequencies.
+>-  Having a a binning system, distinguishing between human-related and external factors influencing accident frequencies.
 
 
 
