@@ -28,3 +28,27 @@ It's clear that not every street has the same level of safety. Why is this? Mayb
 # Modelling 
 
 Multiple models were assessed to predict high-frequency accident streets. The dummy model, a baseline model, predominantly leaned towards predicting the majority class, showcasing its inefficiency in capturing the essence of the minority class with an F1-score of 0.43 for the macro average. Moving to logistic regression without SMOTE, there was a noticeable improvement in classifying the minority class with a macro average F1-score of 0.56. Implementing SMOTE further enhanced this, balancing out the training data, and achieved a slightly better macro average F1-score of 0.57. Finally, hyperparameter tuning with GridSearchCV on the SMOTE-resampled data did not significantly alter the model's performance, suggesting that the initial parameters used with SMOTE were near optimal for this dataset. Throughout, the models consistently improved in capturing the minority class instances, which was evident from the increase in recall from the dummy model to the SMOTE-based models.
+
+# Results 
+
+The findings underscore the necessity of understanding both the physical infrastructure of roads and the control measures in place when assessing accident risks. Future safety interventions should consider these insights to develop effective strategies for accident reduction.
+
+# Limitations and Next Steps 
+
+Note that correlation is not causation! The logistic regression report and coefficients show correlation between features and the likelihood of a street being high-frequency in terms of accidents. However, they don't prove causation. 
+
+- Limitations:
+
+ -> The dataset does not encompass all potential variables, particularly those related to driver behavior and distractions like cell phone use, which has become a common cause of accidents in recent times.
+  
+  ->Dependence on Available Features: The regression analysis, although revealing, relies heavily on the given features in the dataset. It may not encapsulate all factors contributing to high-frequency accidents.
+  
+  
+- Next Steps:
+
+ -> Expand Data Collection: Given the importance of factors like driver behavior and distractions, efforts should be made to include these in future datasets. 
+
+ ->  Having a a binning system, distinguishing between human-related and external factors influencing accident frequencies.
+
+
+
