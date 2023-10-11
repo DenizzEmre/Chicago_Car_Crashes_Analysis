@@ -19,5 +19,9 @@ There are three separate data: crashes, people, and vehicles. The data can be fo
 
 Following the comprehensive explanatory data analysis, several intriguing patterns and findings emerged. One of the most noticeable observations was that most accidents occurred during clear weather conditions, with dry road surfaces. Additionally, the data showed a peak in accidents during peak commuting hours. This insight aligns with the general understanding that increased traffic during rush hours can lead to a higher likelihood of collisions.
 
-When I looked at the data, I saw that some streets had more accidents than others. It's clear that not every street has the same level of safety. Why is this? Maybe some streets are built differently, or there's more traffic on them. Or maybe it's the way people drive on certain roads. We need to understand this better because knowing why can help make these streets safer in the future.
+When I looked at the data, I saw that some streets had more accidents than others. 
+
+![Streets](location.jpg)
+
+It's clear that not every street has the same level of safety. Why is this? Maybe some streets are built differently, or there's more traffic on them. Or maybe it's the way people drive on certain roads. We need to understand this better because knowing why can help make these streets safer in the future.
 
